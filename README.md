@@ -127,7 +127,7 @@ The final model configuration, combining insights from previous experiments (med
 - **Test Loss:** 0.6735
 - **Training Time:** 177.4s
 
-### experiment 5.1 : Transfer Learning with VGG16
+### experiment 5.1 : Transfer Learning and fine tuning with VGG16
 
 This task explored the use of pre-trained VGG16 for CIFAR-10 classification, comparing a transfer learning approach (freezing VGG base and training a new head) with fine-tuning (unfreezing the last few VGG layers).
 
