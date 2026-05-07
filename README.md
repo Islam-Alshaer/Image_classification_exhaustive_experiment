@@ -1,4 +1,4 @@
-# ICEEP (image classification exhaustive experiment project)
+# ICEEP (Image Classification Exhaustive Experiment Project)
 
 # Introduction 
 This is a study of various combinations of deep learning pipeline choices.
