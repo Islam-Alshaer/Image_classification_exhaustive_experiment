@@ -1,4 +1,14 @@
-# ICEE (image classification exhaustive experiments
+# ICEEP (image classification exhaustive experiment project)
+
+# Introduction 
+This is a study of various combinations of deep learning pipeline choices.
+
+It was done using CIFAR-10 Dataset consisting 60000 32x32 colour images in 10 classes.
+
+We used tensor-flow for this process.
+
+We are a team of 2: **Islam Waleed** (experiments 4->5) and **Hanif Aderolu** (experiments 1->3) 
+
 
 ## Data experiments 
 ### experiment 1.1: Normalization Comparison
@@ -117,7 +127,7 @@ The final model configuration, combining insights from previous experiments (med
 - **Test Loss:** 0.6735
 - **Training Time:** 177.4s
 
-### experiment 6.1 : Transfer Learning with VGG16
+### experiment 5.1 : Transfer Learning with VGG16
 
 This task explored the use of pre-trained VGG16 for CIFAR-10 classification, comparing a transfer learning approach (freezing VGG base and training a new head) with fine-tuning (unfreezing the last few VGG layers).
 
