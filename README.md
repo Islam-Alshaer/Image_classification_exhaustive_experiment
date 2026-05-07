@@ -7,7 +7,7 @@ It was done using CIFAR-10 Dataset consisting 60000 32x32 colour images in 10 cl
 
 We used tensor-flow for this process.
 
-We are a team of 2: **Islam Waleed** (experiments 4->5) and **Hanif Aderolu** (experiments 1->3) 
+We are a team of 2: **Hanif Aderolu** (experiments 1->3) and **Islam Waleed** (experiments 4->5)
 
 
 ## Data experiments 
