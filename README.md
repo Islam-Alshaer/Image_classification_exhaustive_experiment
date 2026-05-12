@@ -1,4 +1,4 @@
-# ICEEP (Image Classification Exhaustive Experiment Project)
+# ICEEP (Image Classification Exhaustive Experiment Project) (Tensor-flow)
 
 # Introduction 
 This is a study of various combinations of deep learning pipeline choices.
